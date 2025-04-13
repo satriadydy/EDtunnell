@@ -18,10 +18,11 @@ pattern = "support.zoom.us.indo.satriadytutorial.eu.org"
 custom_domain = true
 
 [vars]
-# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "03a4a445-b7a2-4da5-9d93-563ecc342626"
 PROXYIP = "103.6.207.108:8080"
+DNS_RESOLVER_URL = "https://dns.google/dns-query"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "03a4a445-b7a2-4da5-9d93-563ecc342626"
+#UUID = "03a4a445-b7a2-4da5-9d93-563ecc342626"
