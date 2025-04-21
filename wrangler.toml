@@ -20,7 +20,7 @@ custom_domain = true
 pattern = "ava.game.naver.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
-pattern = "-edge-ig-mqtt-p4-shv-sin6.facebook.com.indo.satriadytutorial.eu.org"
+pattern = "facebook.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 
 
