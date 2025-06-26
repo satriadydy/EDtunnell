@@ -35,8 +35,8 @@ custom_domain = true
 [vars]
 UUID = "03a4a445-b7a2-4da5-9d93-563ecc342626"
 PROXYIP = "161.117.249.114:2025"
-DNS_RESOLVER_URL = "https://dns.google/dns-query"
-# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+#DNS_RESOLVER_URL = "https://dns.google/dns-query"
+ DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
