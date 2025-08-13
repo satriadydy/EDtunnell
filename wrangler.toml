@@ -29,7 +29,7 @@ custom_domain = true
 pattern = "fbcdn.net.indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
-pattern = "status.fb.com.indo.satriadytutorial.eu.org"
+pattern = "quiz.staging.vidio.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 
 [vars]
