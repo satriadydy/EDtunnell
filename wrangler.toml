@@ -26,7 +26,7 @@ custom_domain = true
 pattern = "instagram.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
-pattern = "live.iflix.com.indo.satriadytutorial.eu.org"
+pattern = "iflix.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
 pattern = "quiz.staging.vidio.com.indo.satriadytutorial.eu.org"
