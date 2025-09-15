@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.indo.satriadytutorial.eu.org"
+pattern = "static.wetvinfo.com.indo.satriadytutorial.eu.org"
 custom_domain = true
 [[routes]]
 pattern = "graph.instagram.com.indo.satriadytutorial.eu.org"
